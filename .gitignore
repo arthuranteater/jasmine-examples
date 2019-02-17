@@ -1,4 +1,7 @@
 #jasmine lib
 
-*.lib/
-*.DS_Store
+/unit-tests/jasmine-standalone-3.3.0/
+.lib/
+
+#DS Store
+.DS_Store
