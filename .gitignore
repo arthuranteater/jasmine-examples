@@ -3,3 +3,6 @@ lib/
 
 #DS Store
 .DS_Store
+
+#node
+node_modules/
